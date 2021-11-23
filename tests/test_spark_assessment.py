@@ -8,9 +8,9 @@ def test_version():
     assert __version__ == '0.1.0'
 
 
-def getBmiCategory_shouldReturn_Overweight(bmi):
+def getBmiCategory_shouldReturn_Overweight():
     assert get_bmi_category(DEFAULT_BI) == "Overweight"
 
 
-def getHealthRisk_shouldReturn_Overweight(bmi):
+def getHealthRisk_shouldReturn_EnhancedRisk():
     assert get_health_risk(DEFAULT_BI) == "Enhanced risk"
