@@ -2,7 +2,7 @@
 name = "spark-assessment"
 version = "0.1.0"
 description = ""
-authors = ["Frelin Ampilahy <frelin.ampilahy@cpexterne.org>"]
+authors = ["Frelin Ampilahy <randofrils@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
