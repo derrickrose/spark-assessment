@@ -17,7 +17,7 @@ BMI(kg/m²) = mass(kg) / height(m)²
 * pytest
 
 ### How to run:
-Be sure to have the path pointed inside the project directory then run the command:
+Be sure to have the path pointed inside the project code source directory then run the command:
 * in linux OS.
 > ./bmi_calculator.py
 * in windows OS
